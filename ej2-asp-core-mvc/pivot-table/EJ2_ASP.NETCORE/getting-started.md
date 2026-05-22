@@ -186,7 +186,7 @@ Press <kbd>Ctrl</kbd>+<kbd>F5</kbd> (Windows) or <kbd>⌘</kbd>+<kbd>F5</kbd> (m
 
 The output looks like below
 
-![ASP.NET Core Pivot Table Control](images/pivottable-control.png)
+![ASP.NET Core Pivot Table Control](images/pivottable-fields.png)
 
 ## See also
 
